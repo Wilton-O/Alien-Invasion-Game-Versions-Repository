@@ -1,5 +1,6 @@
-Hello, professor!
+Hello!
 
-Hopefully, all of this has loaded correctly for you and that I have placed and labeled everything correctly for your grading/use.
+Hopefully, it is only my class professor who ends up reading this. As well, I hope that I have placed and labeled everything correctly for grading/use.
 
-- Wilton
+Signed,
+  Wilton
