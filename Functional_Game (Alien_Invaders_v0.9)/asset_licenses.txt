@@ -1,0 +1,18 @@
+Image-assets
+
+(non-modified)
+images/ship.bmp: https://github.com/ehmatthes/pcc_3e/blob/main/chapter_12/adding_ship_image/images/ship.bmp
+
+(modified) 
+images/alien.bmp: https://github.com/ehmatthes/pcc_3e/blob/main/chapter_13/creating_first_alien/images/alien.bmp
+
+
+
+Sound-assets
+
+(non-modified)
+sounds/shoot.wav: https://freesound.org/people/nsstudios/sounds/321101/
+sounds/alien-death.wav: https://freesound.org/people/Headphaze/sounds/742583/
+sounds/ship-death.wav: https://freesound.org/people/GregorQuendel/sounds/422114/
+
+
