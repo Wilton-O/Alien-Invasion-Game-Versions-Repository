@@ -1,5 +1,5 @@
 Hello!
 
-Hopefully, it is only my class professor who ends up reading this. As well, I hope that I have placed and labeled everything correctly for grading/use.
+Hopefully, it is only my class professor who ends up reading this. Here is where I have provided my weekly submissions for an 'Alien Invaders' game project.
 
 -Wilton
